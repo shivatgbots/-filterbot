@@ -2,7 +2,7 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}\n𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
 
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/K0UND1NYA>Kᴏᴜɴᴅɪɴʏᴀ</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/DEofficial1>DevilEmpire</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://docs.pyrogram.org/>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <a href=https://www.python.org/download/releases/3.0/>𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</a>
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : <a href=https://www.mongodb.com/>𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</a>
@@ -13,7 +13,7 @@ class script(object):
 - ᴛʜɪs ʙᴏᴛ ɪs ᴀ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ
   sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : - 🔐
    
--  ᴅᴇᴠᴇʟᴏᴘᴇʀ : - <a href="https://t.me/K0UND1NYA">Kᴏᴜɴᴅɪɴʏᴀ</a>"""
+-  ᴅᴇᴠᴇʟᴏᴘᴇʀ : - <a href="https://t.me/DEofficial1">DevilEmpire</a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
@@ -27,9 +27,9 @@ class script(object):
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch KOUNDINYA_MOVIEZ/1 https://t.me/KOUNDINYA_MOVIEZ/10</code>
+<code>/batch https://t.me/DEofficial1/1 https://t.me/DEofficial1/10</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=t.me/KOUNDINYA_MOVIEZ><b>Kᴏᴜɴᴅɪɴʏᴀ Mᴏᴠɪᴇᴢ</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=t.me/DEofficial1><b>Devil Empire</b></a>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -75,7 +75,7 @@ class script(object):
 ›› /set_template - 𝚂𝙴𝚃 𝙲𝚄𝚂𝚃𝙾𝙼 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙵𝙾𝚁 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁. 
 ›› /get_template - 𝙶𝙴𝚃 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙾𝙵 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/KOUNDINYA_MOVIEZ>Kᴏᴜɴᴅɪɴʏᴀ Mᴏᴠɪᴇᴢ</a>**"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/DEofficial1>Devil Empire</a>**"""
 
     CONNECTION_TXT = """Help: <b>Connections</b>
 
@@ -187,7 +187,7 @@ By @{} """
 
 ➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
 
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/KOUNDINYA_MOVIEZ>Kᴏᴜɴᴅɪɴʏᴀ Mᴏᴠɪᴇᴢ</a>"""
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/DEofficial1>Devil Empire</a>"""
 
     RESTRIC_TXT = """➤ 𝐇𝐞𝐥𝐩: Mᴜᴛᴇ 🚫
 
